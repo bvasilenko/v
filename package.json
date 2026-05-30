@@ -1,0 +1,19 @@
+{
+  "name": "v",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "packageManager": "bun@1.2.0",
+  "engines": {
+    "bun": ">=1.2.0"
+  },
+  "scripts": {
+    "install:all": "bun install",
+    "submodules:init": "git submodule update --init --recursive",
+    "submodules:update": "git submodule update --remote --merge"
+  }
+}
