@@ -1,0 +1,48 @@
+[submodule "packages/vtheme"]
+	path = packages/vtheme
+	url = git@github.com:bvasilenko/vTheme.git
+[submodule "packages/vui"]
+	path = packages/vui
+	url = git@github.com:bvasilenko/vUi.git
+[submodule "packages/varia"]
+	path = packages/varia
+	url = git@github.com:bvasilenko/vAria.git
+[submodule "packages/vhooks"]
+	path = packages/vhooks
+	url = git@github.com:bvasilenko/vHooks.git
+[submodule "packages/vdsl"]
+	path = packages/vdsl
+	url = git@github.com:bvasilenko/vDsl.git
+[submodule "packages/vmdx"]
+	path = packages/vmdx
+	url = git@github.com:bvasilenko/vMdx.git
+[submodule "packages/vrenderer"]
+	path = packages/vrenderer
+	url = git@github.com:bvasilenko/vRenderer.git
+[submodule "packages/vblocks"]
+	path = packages/vblocks
+	url = git@github.com:bvasilenko/vBlocks.git
+[submodule "packages/vssg"]
+	path = packages/vssg
+	url = git@github.com:bvasilenko/vSsg.git
+[submodule "packages/vlint"]
+	path = packages/vlint
+	url = git@github.com:bvasilenko/vLint.git
+[submodule "packages/vregistry"]
+	path = packages/vregistry
+	url = git@github.com:bvasilenko/vRegistry.git
+[submodule "packages/vforms"]
+	path = packages/vforms
+	url = git@github.com:bvasilenko/vForms.git
+[submodule "packages/vchat"]
+	path = packages/vchat
+	url = git@github.com:bvasilenko/vChat.git
+[submodule "packages/vcli"]
+	path = packages/vcli
+	url = git@github.com:bvasilenko/vCli.git
+[submodule "packages/vgrid"]
+	path = packages/vgrid
+	url = git@github.com:bvasilenko/vGrid.git
+[submodule "packages/vbrand"]
+	path = packages/vbrand
+	url = git@github.com:bvasilenko/vBrand.git
